@@ -25,7 +25,7 @@ public class AboutMe {
     //O catch vem depois do try, e é executado caso ocorra um erro no bloco try
     //O finally é opcional e é executado sempre, independente de erro ou não
     catch (InputMismatchException e) {
-        System.out.println("Os campos edade e altura precisam serem numericos");
+        System.out.println("Os campos idade e altura precisam serem numericos");
     } 
 
     }
